@@ -15,6 +15,6 @@ public class ExampleController {
     @RequestMapping("/second")
     @ResponseBody
     String second() {
-        return "Tekst z metody second()";
+        return "Tekst z metody secoddddddddddddddddddddddddddd()";
     }
 }
